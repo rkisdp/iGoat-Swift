@@ -36,7 +36,7 @@
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsArbitraryLoads</key>
-		<true/>
+		<false/>
 	</dict>
 	<key>NSFaceIDUsageDescription</key>
 	<string>iGoat would like to use FaceID to authenticate you.</string>
